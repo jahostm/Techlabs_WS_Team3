@@ -5,7 +5,6 @@ Project Mission: to analyze, visualize and create a prediction model for Stock M
 ## Project Team: 
 -	Sohail Jannessari
 -	Jan Hostmann
--	Jannette Faßbeck
 -	Anh Dong 
 
 ## Project Phases: 
