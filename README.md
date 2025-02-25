@@ -31,3 +31,4 @@ The key questions we want to solve are:
 1.	How is the impact of natural disasters on the stock market - in the short and long term?
 2.	Are there specific sectors (e.g., energy, real estate, insurance, ...) or regions that are more sensitive to earthquakes in terms of market performance?
 3.	…
+
