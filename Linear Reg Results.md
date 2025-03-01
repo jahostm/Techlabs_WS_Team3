@@ -1,3 +1,14 @@
+These are the results of our linear regression model.
+We use daily change in each market as our dependent variable and these
+characteristics of earthquakes with the magnitude of 6 and above happening
+in the period between two consecutive market closes:
+1) Number of earthquakes
+2) Maximum magnitude of earthquakes
+3) If the earthquake caused a Tsunami or not
+4) Minimum distance of the earthquake from the town the market is located in.
+
+NSEI, BSESN, and N225 are the only ones that show results. NSEI and BSESN are affected by a tiny amount by the maximum magnitude. N225 is affected by both number of earthquakes and the maximum.
+
 Ticker: ^NYA
                             OLS Regression Results                            
 ==============================================================================
