@@ -1,0 +1,102 @@
+﻿ticker,company_name,industry
+HAV.PA,Havas Group,Advertising
+PUB.PA,Publicis Groupe,Advertising
+AIR.PA,Airbus,Aerospace
+SAF.PA,Safran,Aerospace
+LDO.MI,Leonardo,Aerospace and Defense
+HO.PA,Thales,Aerospace and Defense
+RYA.IR,Ryanair,Airlines
+ADP.PA,Aéroports de Paris,Airport Operations
+NHY.OL,Norsk Hydro ASA,Aluminum
+MONC.MI,Moncler,Apparel
+RACE.MI,Ferrari,Automotive
+RNO.PA,Renault,Automotive
+STLAM.MI,Stellantis,Automotive
+DIE.BR,D'Ieteren,Automotive Services
+A5G.IR,AIB Group,Banking
+BIRG.IR,Bank of Ireland,Banking
+BNP.PA,BNP Paribas,Banking
+ACA.PA,Crédit Agricole,Banking
+DNB.OL,DNB ASA,Banking
+FBK.MI,FinecoBank,Banking
+INGA.AS,ING Groep,Banking
+ISP.MI,Intesa Sanpaolo,Banking
+KBC.BR,KBC Group,Banking
+MB.MI,Mediobanca,Banking
+GLE.PA,Société Générale,Banking
+UCG.MI,UniCredit,Banking
+HEIA.AS,Heineken,Beverages
+RI.PA,Pernod Ricard,Beverages
+ARGX.BR,Argenx,Biotechnology
+SBS.F,Sartorius Stedim Biotech,Biotechnology
+KRX.IR,Kingspan Group,Building Materials
+SGO.PA,Saint-Gobain,Building Materials
+PRY.MI,Prysmian,Cable Manufacturing
+AKZA.AS,Akzo Nobel,Chemicals
+DSFIR.AS,DSM-Firmenich,Chemicals
+EN.PA,Bouygues,Conglomerate
+FGR.PA,Eiffage,Construction
+DG.PA,Vinci,Construction and Engineering
+CAP.PA,Capgemini,Consulting and IT Services
+KOG.OL,Kongsberg Gruppen,Defense and Aerospace
+LR.PA,Legrand,Electrical Equipment
+SU.PA,Schneider Electric,Electrical Equipment
+VIE.PA,Veolia Environnement,Environmental Services
+BN.PA,Danone,Food Products
+KRZ.IR,Kerry Group,Food Products
+PHIA.AS,Koninklijke Philips N.V.,Health Technology
+AC.PA,Accor,Hospitality
+AI.PA,Air Liquide,Industrial Gases
+WKL.AS,Wolters Kluwer,Information Services
+AGN.AS,Aegon,Insurance
+ASRNL.AS,ASR Nederland,Insurance
+CS.PA,AXA,Insurance
+CPR.MI,Cattolica Assicurazioni,Insurance
+G.MI,Assicurazioni Generali,Insurance
+NN.AS,NN Group,Insurance
+GBLB.BR,Groupe Bruxelles Lambert,Investment Holding
+PST.MI,Poste Italiane,Logistics
+KER.PA,Kering,Luxury Goods
+VIV.PA,Vivendi SE,Media
+BIM.PA,bioMérieux,Medical Diagnostics
+ERF.PA,Eramet,Mining
+AKRBP.OL,Aker BP,Oil and Gas
+ENI.MI,Eni,Oil and Gas
+EQNR.OL,Equinor,Oil and Gas
+GALP.LS,Galp Energia,Oil and Gas
+SHEL.AS,Shell,Oil and Gas
+TTE.PA,TotalEnergies,Oil and Gas
+EL.PA,EssilorLuxottica,Optical Products
+ADYEN.AS,Adyen,Payment Services
+IPN.PA,Ipsen,Pharmaceuticals
+REC.MI,Recordati,Pharmaceuticals
+SAN.PA,Sanofi,Pharmaceuticals
+UCB.BR,UCB,Pharmaceuticals
+EDEN.PA,Edenred,Prepaid Corporate Services
+URW.PA,Unibail-Rodamco-Westfield,Real Estate
+EDPR.LS,EDP Renováveis,Renewable Energy
+AD.AS,Ahold Delhaize,Retail
+CA.PA,Carrefour,Retail
+JMT.LS,Jerónimo Martins,Retail
+MOWI.OL,Mowi,Seafood
+ASM.AS,ASM International,Semiconductors
+ASML.AS,ASML,Semiconductors
+BESI.AS,BE Semiconductor Industries,Semiconductors
+STMPA.PA,STMicroelectronics,Semiconductors
+SW.PA,Sodexo,Services
+DSY.PA,Dassault Systèmes,Software
+MT.AS,ArcelorMittal,Steel
+TEN.MI,Tenaris,Steel
+ENX.PA,Euronext,Stock Exchange
+PRX.AS,Prosus,Technology Investment
+INW.MI,Infrastrutture Wireless Italiane,Telecommunications
+KPN.AS,KPN,Telecommunications
+ORA.PA,Orange,Telecommunications
+TEL.OL,Telenor,Telecommunications
+BVI.PA,Bureau Veritas,"Testing, Inspection, and Certification"
+ML.PA,Michelin,Tires
+EDP.LS,Energias de Portugal,Utilities
+ENEL.MI,Enel,Utilities
+ENGI.PA,Engie,Utilities
+SRG.MI,Snam,Utilities
+TRN.MI,Terna,Utilities
