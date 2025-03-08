@@ -1,2 +1,0 @@
-01_data/02_pre/000001.SS_China/sse_stocks_historical_data.csv filter=lfs diff=lfs merge=lfs -text
-01_data/02_pre/000001.SS_China/clean_china_stocks_data.csv filter=lfs diff=lfs merge=lfs -text
