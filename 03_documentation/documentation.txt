@@ -67,6 +67,18 @@ Mar 4th, 2025 - Team meeting
 - Create tickets for everyone to clean code and upload files to main branch, deadline of that tickets is on Sat 08/03/2025.
 
 Mar 9th, 2025 - Team meeting 
+- Show overview of GitHub main branch 
+- 1st version of pptx presentation 
+- Discuss about Dashboard Visualization (which charts to display?)
+
+Mar 11th, 2025 - Team meeting
 - 
 - 
 
+Mar 14th, 2025 - Team meeting 
+- 
+- 
+
+Mar 16th, 2025 - Team meeting - Submission 
+-
+-
