@@ -18,7 +18,7 @@ Project Duration: 9 weeks (13/01/2025 – 16/03/2025)
 |  3  | Data Cleanup & Analysis              |  Week 3-4  |    09/02/2025   |
 |  4  | Problem Definition                   |  Week 5-6  |    23/02/2025   |
 |  5  | Modelling & Evaluation               |  Week 7-8  |    09/03/2025   |
-|  6  | Final Presentation prep, Submission  |   Week 9   |    13/03/2025   |
+|  6  | Final Presentation prep, Submission  |   Week 9   |    16/03/2025   |
 
 
 ## Abstract:  
