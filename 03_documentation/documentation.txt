@@ -72,8 +72,8 @@ Mar 9th, 2025 - Team meeting
 - Discuss about Dashboard Visualization (which charts to display?)
 
 Mar 11th, 2025 - Team meeting
-- 
-- 
+- Finalize GitHub structure folder
+- Further working with Dashboard and cleaning code
 
 Mar 14th, 2025 - Team meeting 
 - 
