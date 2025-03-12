@@ -1,0 +1,13 @@
+﻿,Ticker,Name,Location,Coordinates,Longitude,Latitude
+1,^NYA,New York Stock Exchange,New York City. U.S.,40°42′25″N 74°0′40″W,-74.0111761,40.7070653
+2,^IXIC,NASDAQ Composite,New York City. U.S.,"40°42'25""N 74°0'40""W",-74.0111761,40.7070653
+3,^FTSE,FTSE 100 Index,London. U.K.,"51°30'54""N 0°4'56""W",-0.0823117,51.514946
+4,^NSEI,Nifty 50 Index,Mumbai. India,"18°55'48""N 72°49'48""E",72.8304996,18.9293274
+5,^BSESN,BSE Sensex,Mumbai. India,"18°55'48""N 72°49'48""E",72.8304996,18.9293274
+6,^N225,Nikkei 225,Tokyo. Japan,"35°41'22""N 139°41'30""E",139.6929973,35.6897391
+7,000001.SS,SSE Composite Index,Shanghai. China,"31°14'18""N 121°29'42""E",121.4947385,31.23865
+8,^N100,Euronext 100 Index,Amsterdam. Netherlands,"52°22'23""N 4°53'36""E",4.8941011,52.3729474
+9,^DJI,Dow Jones Industrial Average,New York City. U.S.,"40°42'25""N 74°0'40""W",-74.0111761,40.7070653
+10,^GSPC,S&P 500 Index,New York City. U.S.,"40°42'25""N 74°0'40""W",-74.0111761,40.7070653
+11,GC=F,Gold Futures,Chicago. U.S.,"41°52'51""N 87°37'43""W",-87.6285961,41.8811752
+12,CL=F,Crude Oil Futures,New York City. U.S.,40°42′25″N 74°0′40″W,-74.0111761,40.7070653
