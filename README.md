@@ -35,6 +35,11 @@ The key questions we want to solve are:
 3.	How can investors apply this model? 
 
 ## How to use/read this Project code? 
+ 
+- Firstly, some library need to be installed: pandas, numpy, statsmodels.api, geocoder, datetime, yfinance, matplotlib.pyplot, seaborn, requests, glob, dash, plotly.
+- Secondly, the data sources: 
+    + Raw data (01_data\01_raw): ...
+    + Additional data (01_data\03_additional): from yfinance and google (national stock exchange websites)
 
 ### Part 1: Regression Analysis
 
