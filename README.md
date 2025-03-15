@@ -42,9 +42,13 @@ The key questions we want to solve are:
     + Additional data (01_data\03_additional): from yfinance and google (national stock exchange websites)
 
 ### Part 1: Regression Analysis
+1. The file '02_code/0_preprocess/01_preparation.ipynb' does the basic preparations: It limits the earthquakes to our stock market timespan, and a threshold of magnitude. Then it merges the stock market files and split the merged file into separate data sets for each market.
 
+2. The file '02_code/0_preprocess/02_create_regression_files.ipynb' uses additional information (close time, location, etc), and the earthquake and market data sets, to prepare data sets for running linear and logistic regressions. It summarizes the earthquakes equal or above the magnitude of 6 that happen between two closing time of each stock market, into number of these sort of earthquakes, maximum magnitude, maximum significance, minimum depth, and the closest distance between the location of these earthquakes to the location of a market. It also assigns values from 0 to 3 to each day for each market, based on the difference between the pecentage of change in one market and the average of all the markets, attempting to isolate the effect of earthquake (or a special event) that affect this one market and not the others. This 'effect' is assigned based on average and standard deviation of the change in markets, with three showing extreme divergence between a specific market and all the others.
 
+3. The file '02_code\1_analysis\01_linear_reg.ipynb' runs our linear regression based on the output from the step 2. It includes two blocks that run regressions. The second one tries to correct the first block for an error of missing values. The results are saved in separate text files.
 
+4. The file '02_code\1_analysis\02_multinomial_reg.ipynb' runs our multinomial logistic regression based on the output from step 2. It also includes two blocks that run regressions. The second one tries to correct the first block for an error of missing values. The results are saved in separate text files under '03_documentation\01_regressions.'
 
 ### Part 2: Market Analysis
 
