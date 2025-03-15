@@ -36,7 +36,7 @@ The key questions we want to solve are:
 
 ## How to use/read this Project code? 
  
-- Firstly, some libraries need to be installed: pandas, numpy, statsmodels.api, geocoder, datetime, yfinance, matplotlib.pyplot, seaborn, requests, glob, dash, plotly.
+- Firstly, some libraries need to be installed: pandas, numpy, statsmodels.api, geocoder, datetime, yfinance, matplotlib.pyplot, seaborn, requests, glob, dash, plotly (plotly.express,plotly.graph_objects)
 - Secondly, the data sources: 
     + Raw data (01_data\01_raw): ...
     + Additional data (01_data\03_additional): from yfinance and google (national stock exchange websites)
@@ -60,5 +60,6 @@ The key questions we want to solve are:
 
 ### Part 3: Visualization Dashboard
 
+1. All the results of the Japanese Market are shown in the Dashboard. Therefore please nun the file "nikkei_companies_adresses.ipynb" (in 02_code/0_preprocess) to get the adresses of the companies that are shown on the map. 
 
-
+2. All the Analysis of the Japanes Markets are stored in the file "03_N225_companies_stock.ipynb"(in 02_code/0_preprocess). Please run this file to safe the analysis for the markets. They are loading in the file for the dashboard again. 
