@@ -54,7 +54,7 @@ The key questions we want to solve are:
 
 1. Run the file: "01_preparation.ipynb" (in 02_code\0_preprocess) to retrieve the csv file "clean_major_earthquakes.csv" (in 01_data\02_pre). This "clean_major_earthquakes.csv" includes earthquake from 2008-2023, magnitudo >= 6
 
-2. Run the file: "03_N225_companies_stock.ipynb" (in 02_code\0_preprocess\03_N225_companies_stock.ipynb) to retrieve the csv file "N225_companies_stock.csv" (in 01_data\02_pre). This "N225_companies_stock.csv" includes all 225 companies stock value (open, close, volume) of ^N225 (Nikkei 225, Japan Market). 
+2. Run the file: "03_N225_companies_stock.ipynb" (in 02_code\0_preprocess) to retrieve the csv file "N225_companies_stock.csv" (in 01_data\02_pre). This "N225_companies_stock.csv" includes all 225 companies stock values (open, close, volume) of ^N225 (Nikkei 225, Japan Market). 
 
 3. Run the file "03_N225_and_major_earthquake.ipynb" (in 02_code\1_analysis) to get the analysis of Market Performance (in here is Japan Market) and the Time for the Market to recover from the Earthquake. 
 
