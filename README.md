@@ -1,4 +1,4 @@
-# Tchlabs_WS_Team3 - Stock Market Trends
+# Techlabs_WS_Team3 - Stock Market Trends
 
 Project Mission: to analyze, visualize and create a prediction model for Stock Market Trends based on Earthquake Event.
 
@@ -64,6 +64,11 @@ The key questions we want to solve are:
 
 ### Part 3: Visualization Dashboard
 
-1. All the results of the Japanese Market are shown in the Dashboard. Therefore please nun the file "nikkei_companies_adresses.ipynb" (in 02_code/0_preprocess) to get the adresses of the companies that are shown on the map. 
+1. All the results of the Japanese Market are shown in the Dashboard. Therefore please run the file "nikkei_companies_adresses.ipynb" (in 02_code/0_preprocess) to get the adresses of the companies that are shown on the map. 
 
 2. All the Analysis of the Japanes Markets are stored in the file "03_N225_companies_stock.ipynb"(in 02_code/0_preprocess). Please run this file to safe the analysis for the markets. They are loading in the file for the dashboard again. 
+
+
+## Acknowlegment
+
+Special thanks to Techlabs and our Mentor Nopparat Wasikanon for all the work that went through organizing this project and insights. 
