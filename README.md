@@ -2,7 +2,7 @@
 
 **Predicting market behavior based on earthquake events.**
 
-![Screen Recording](C:\Users\dongv\OneDrive\Desktop\Techlabs\Techlabs_WS_Team3\04_visualization\visualization-dashboard.gif)
+![Screen Recording](https://github.com/jahostm/Techlabs_WS_Team3/blob/24b70bbb985424cc7f4508861886bba24ae8954f/04_visualization/visualization-dashboard.gif)
 
 ## 🌟 Project Overview  
 
